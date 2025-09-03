@@ -1,4 +1,4 @@
-//Challenge 3 : Somme de Deux Valeurs//
+//Challenge 3 : Somme de Deux Valeurs
 #include <stdio.h>
 
 int main() {

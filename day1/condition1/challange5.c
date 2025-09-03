@@ -1,4 +1,4 @@
-// Challenge 5 : Conversion d'Année//
+// Challenge 5 : Conversion d'Année
 #include <stdio.h>
 
 int main() {

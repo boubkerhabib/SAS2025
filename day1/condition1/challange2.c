@@ -1,4 +1,4 @@
-//hallenge 2 : Voyelle ou Non//
+//hallenge 2 : Voyelle ou Non
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,4 @@
-//Challenge 4 : Equation du Deuxième Degré//
+//Challenge 4 : Equation du Deuxième Degré
 #include <stdio.h>
 #include <math.h>
 

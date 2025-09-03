@@ -1,4 +1,4 @@
-//Challenge 1 : Paire ou Impaire//
+//Challenge 1 : Paire ou Impaire
 #include <stdio.h>
 
 int main() {
