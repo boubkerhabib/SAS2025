@@ -1,4 +1,4 @@
-
+//Challenge 1 : Initialisation et Affichage:
 #include <stdio.h>
 #include <string.h>
 
